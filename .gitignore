@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .DS_Store
 data/*.pdf
+pdf_doc_agent/.adk/
+*.db
