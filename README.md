@@ -1,5 +1,4 @@
-Updated README
-updated on my machine
+
 # PDF Q&A Agent (Google ADK)
 
 This project reads PDFs from the `data/` folder and answers questions using Google ADK.
