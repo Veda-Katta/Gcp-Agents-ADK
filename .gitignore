@@ -1,0 +1,6 @@
+pdf_doc_agent/.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/*.pdf
