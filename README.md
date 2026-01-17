@@ -9,3 +9,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
+## Generate sample PDFs
+```bash
+python scripts/test_pdfs.py
+
